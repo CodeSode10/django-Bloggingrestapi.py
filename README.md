@@ -27,3 +27,5 @@ Or if facing any issue with above use this command instead :
 You can now run the development server:
 
     $ python manage.py runserver
+
+Now you can use or test api-endpoints using third party tools (like Postman) or Browsable Api.
