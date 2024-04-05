@@ -2,7 +2,7 @@
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone https://github.com/CodeSode10/django-Bloggingrestapi.py.git
+    $ git clone https://github.com/shivamforever/django-Bloggingrestapi.py.git
 
 Now change directory to:
 
